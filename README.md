@@ -4,29 +4,27 @@
 </p>
 
 
-# 🌙 Hello, world! I'm Versyy!  
+# 🌙 Hello, world! I'm Toolwoo!  
 
 > *"i be coding yuh"*  
 
-:star: Computer Science Student (Major: Software Engineering)<br>  
+:star: Secondary Student! <br>  
 :hourglass_flowing_sand: Exploring the Midnight Hour through coding & creation.<br>  
-:video_game: Favourite Games → **Persona** & **Monster Hunter**<br>  
-:musical_note: Hobbies → Gaming, Working Out, Music, Reading.<br>  
+:video_game: Favourite Games → **Persona 5: Royal** <br>  
+:musical_note: Hobbies → Gaming, Music, Coding.<br>  
 
 ---
 
 ## 🔮 Social Links [Arcana: The Fool]
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?logo=Instagram&logoColor=white)](https://instagram.com/damzzlotfi) 
-[![TikTok](https://img.shields.io/badge/-TikTok-black?logo=TikTok&logoColor=white)](https://tiktok.com/@verstraonigiri) 
-[![Twitch](https://img.shields.io/badge/-Twitch-purple?logo=Twitch&logoColor=white)](https://twitch.tv/Verstra00) 
-[![X](https://img.shields.io/badge/-X-darkblue?logo=X&logoColor=white)](https://x.com/damzzwitter) 
-[![YouTube](https://img.shields.io/badge/-YouTube-darkred?logo=YouTube&logoColor=white)](https://youtube.com/@@verstrausesthecomputerwow)  
+[![TikTok](https://img.shields.io/badge/-TikTok-black?logo=TikTok&logoColor=white)](https://tiktok.com/@vtoolwooo)  
+[![YouTube](https://img.shields.io/badge/-YouTube-darkred?logo=YouTube&logoColor=white)](https://youtube.com/@@hoott11)  
 
 ---
 
 # 📖 Persona Compendium [Skill Arsenal]  
 
 ## 🔮 Arcane Arts (Languages)
+>WIP in the moment (haven't learn yet)
 ![C++](https://img.shields.io/badge/c++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-teal.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -39,6 +37,7 @@
 ---
 
 ## ⚔️ Persona Skills (Frameworks & Libraries)
+>WIP in the moment (haven't learn yet)
 ![Django](https://img.shields.io/badge/django-1e3799.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/react-0a3d62.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/next.js-1c1c1c.svg?style=for-the-badge&logo=next.js&logoColor=white)  
@@ -48,6 +47,7 @@
 ---
 
 ## 📦 Velvet Room Arsenal (Databases)
+>WIP in the moment (haven't learn yet)
 ![MySQL](https://img.shields.io/badge/mysql-182C61.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-044a64.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
@@ -59,13 +59,6 @@
 ![Linux](https://img.shields.io/badge/linux-333.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-3c6382.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
-
----
-
-# 📊 Battle Records [Status Screen]  
-![](https://github-readme-stats.vercel.app/api?username=versyy35&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=versyy35&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=versyy35&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  
 
 ---
 
