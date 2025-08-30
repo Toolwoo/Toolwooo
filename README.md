@@ -39,6 +39,7 @@
 
 ## ⚔️ Persona Skills (Frameworks & Libraries)
 >WIP in the moment (haven't learn yet)
+
 ![Django](https://img.shields.io/badge/django-1e3799.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/react-0a3d62.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/next.js-1c1c1c.svg?style=for-the-badge&logo=next.js&logoColor=white)  
@@ -49,6 +50,7 @@
 
 ## 📦 Velvet Room Arsenal (Databases)
 >WIP in the moment (haven't learn yet)
+
 ![MySQL](https://img.shields.io/badge/mysql-182C61.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-044a64.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
