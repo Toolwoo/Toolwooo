@@ -8,7 +8,7 @@
 
 > *"i be coding yuh"*  
 
-:star: Secondary Student! <br>  
+:star: Secondary School Student! <br>  
 :hourglass_flowing_sand: Exploring the Midnight Hour through coding & creation.<br>  
 :video_game: Favourite Games → **Persona 5: Royal** <br>  
 :musical_note: Hobbies → Gaming, Music, Coding.<br>  
@@ -24,7 +24,8 @@
 # 📖 Persona Compendium [Skill Arsenal]  
 
 ## 🔮 Arcane Arts (Languages)
-!>WIP in the moment (haven't learn yet)
+>WIP in the moment (haven't learn yet)
+
 ![C++](https://img.shields.io/badge/c++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-teal.svg?style=for-the-badge&logo=css3&logoColor=white) 
